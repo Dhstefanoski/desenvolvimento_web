@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f4f9; 
+    font-family: sans-serif; 
+}
+
+article {
+    background-color: #ffffff; 
+    max-width: 600px;
+    margin: 40px auto; 
+    padding: 30px;
+    border: 1px solid #cccccc; 
+    border-radius: 8px; 
+}
+
+
+h2 {
+    font-size: 24px;
+    color: #ff6600;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: #0055cc; 
+}
+
+nav a:hover {
+    color: #ff6600; 
+    text-decoration: underline; 
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
